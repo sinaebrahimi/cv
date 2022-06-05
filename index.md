@@ -1,3 +1,10 @@
+# Sina Ebrahimi
+
+### 5G and Beyond Network Researcher
+
+I am Sina Ebrahimi. I am a Software Engineering *M.Sc.* graduate from Tarbiat Modares University.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sinaebrahimi/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
